@@ -5,8 +5,10 @@
 
 - Open solution in VS 
 - View --> Test Explorer
-- Run desired Tests
+- Run desired Tests*
+
+* Test cases are currently set to run in Parallel with multiple browsers, at the same time for efficiency. Currently, "FireFox", "Chrome" are both run together.
 
 
-Creation Date 09/21/2021
+Creation Date 09/21/2021 -- 
 Current Test Cases (2)
